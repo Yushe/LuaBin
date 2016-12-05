@@ -48,5 +48,3 @@ function InfRed(name)
 	surface.PlaySound("npc/manhack/bat_away.wav")
 	hook.Add("HUDPaint", "InfRed", InfRedHook)
 end
-
-0

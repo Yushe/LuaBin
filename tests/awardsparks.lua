@@ -1,3 +1,5 @@
+concommand.Add("awardtest", function(
+			
 function EFFECT:Init(data)
 	local ent = data:GetEntity()
 	self.Ent = ent
@@ -48,5 +50,5 @@ end
 
 function EFFECT:Render()
 end
-
-0
+			
+)

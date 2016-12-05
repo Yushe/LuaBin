@@ -44,5 +44,3 @@ end
 function ENT:UpdateTransmitState()
 	return TRANSMIT_ALWAYS
 end
-
-0
